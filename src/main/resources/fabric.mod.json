@@ -16,7 +16,8 @@
     "PlayerNameTweaks.mixins.json"
   ],
   "depends": {
-    "fabricloader": "*",
-    "minecraft": ">=1.19"
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}"
   }
 }
