@@ -5,7 +5,7 @@ import org.spongepowered.asm.mixin.Mixin;
 import org.spongepowered.asm.mixin.Overwrite;
 
 @Mixin(StringUtil.class)
-public class ServerLoginPacketHandlerImplMixin {
+public class StringUtilMixin {
     /**
      * @author
      * @reason

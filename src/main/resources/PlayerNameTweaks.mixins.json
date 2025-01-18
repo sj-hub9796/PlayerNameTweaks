@@ -7,7 +7,7 @@
     "EntitySelectorParserMixin",
     "PlayerListMixin",
     "ServerConsoleHandlerMixin",
-    "ServerLoginPacketHandlerImplMixin"
+    "StringUtilMixin"
   ],
   "injectors": {
     "defaultRequire": 1
